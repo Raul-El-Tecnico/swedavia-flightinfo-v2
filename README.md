@@ -1,4 +1,4 @@
-# Swedavia Flight API CLI Client - Project Documentation
+# Swedavia Flight API CLI Client
 
 ## Project Overview
 A terminal-based Python CLI application that reverse-engineers and consumes the Swedavia FlightInfo v2 API. The tool allows users to query real-time flight arrivals and departures across 10 Swedish airports, search specific flight IDs, verify API status via heartbeat checks, and browse large datasets through pagination.
